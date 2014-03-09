@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>Klammer links</item>
+        <item>Klammer rechts</item>
+        <item>Fakultät</item>
+        <item>Natürlicher Logarithmus</item>
+        <item>Logarithmus</item>
+        <item>Quadratwurzel</item>
+        <item>dividiert durch</item>
+        <item>multipliziert mit</item>
+        <item>Plus</item>
+        <item>Minus</item>
+        <item> Punkt </item>
+        <item>Potenz</item>
+        <item>Tangens</item>
+        <item>Sinus</item>
+        <item>Kosinus</item>
+        <item>Pi</item>
+        <item>gleich</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Kontaktspeicher</string>
+  <string name="call_log_provider_label">Anrufliste</string>
+  <string name="create_contact">Neuer Kontakt</string>
+  <string name="debug_dump_database_message">Du bist dabei 1) eine Kopie deiner Datenbank in den internen Speicher zu erstellen, die alle deine kontaktbezogenen Informationen und den Anrufverlauf enthält und diese 2) per E-Mail zu versenden. Denke daran, die Kopie nach erfolgreichreichem kopieren vom Gerät oder E-Mail-Empfang zu löschen.</string>
+  <string name="debug_dump_delete_button">Jetzt löschen</string>
+  <string name="debug_dump_email_body">Als Anhang meine Kontakt-Datenbank mit allen meinen Kontakten. Mit Vorsicht behandeln.</string>
+  <string name="debug_dump_email_sender_picker">Wähle eine Anwendung um deinen Datei zu senden</string>
+  <string name="debug_dump_email_subject">Kontakt-DB angehängt</string>
+  <string name="debug_dump_start_button">Start</string>
+  <string name="debug_dump_title">Kopiere Kontakt-Datenbank</string>
+  <string name="default_directory">Kontakte</string>
+  <string name="edit_contact">Zu Kontakt hinzufügen</string>
+  <string name="local_invisible_directory">Andere</string>
+  <string name="pound_search_tip">Gib eine Nummer nach \"#\" ein, um Kontakte zu suchen</string>
+  <string name="provider_label">Kontakte</string>
+  <string name="read_write_all_voicemail_description">Gestattet der Anwendung, alle Mailboxnachrichten, auf die das Telefon zugreifen kann, zu empfangen und zu speichern.</string>
+  <string name="read_write_all_voicemail_label">Alle Mailboxnachrichten abrufen</string>
+  <string name="send_sms">SMS senden</string>
+  <string name="sharedUserLabel">Android Core Apps</string>
+  <string name="upgrade_msg">Aktualisiere Kontakt-Datenbank.</string>
+  <string name="upgrade_out_of_memory_notification_text">Auswählen, um das Upgrade abzuschließen.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Kontakt-Upgrade benötigt mehr Speicher</string>
+  <string name="upgrade_out_of_memory_notification_title">Aktualisiere Kontaktspeicher</string>
+  <string name="voicemail_from_column">"Mailboxnachricht von "</string>
+</resources>
