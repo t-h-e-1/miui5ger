@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="new_account_types">
-        <item>Mit SMS registrieren (Empfohlen)</item>
-        <item>Mit E-Mail registrieren</item>
-    </string-array>
-</resources>
